@@ -27,9 +27,12 @@ MS-SQL – Database management system
 Project Structure;
 
 project-folder/
-│
+
+
 ├── index.html
+
 ├── style.css
+
 └── README.md
 
 How to Run the Project;
